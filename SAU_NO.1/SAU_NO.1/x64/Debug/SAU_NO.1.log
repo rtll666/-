@@ -1,0 +1,32 @@
+﻿  Define.cpp
+  Engine.cpp
+  Main.cpp
+  MonteCarlo.cpp
+  SetScore.cpp
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(311,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(336,39): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(340,5): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(345,5): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(359,63): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(368,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(375,63): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(381,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(388,5): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(401,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(414,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(419,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\SetScore.cpp(437,33): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  Wally.cpp
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Wally.cpp(209,54): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Wally.cpp(499,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Wally.cpp(514): warning C4715: “pattern”: 不是所有的控件路径都返回值
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Wally.cpp(681): warning C4715: “mymove”: 不是所有的控件路径都返回值
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Engine.cpp(592): warning C4715: “dingshi1”: 不是所有的控件路径都返回值
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Engine.cpp(685): warning C4715: “dingshi2”: 不是所有的控件路径都返回值
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Engine.cpp(499): warning C4715: “dingshi”: 不是所有的控件路径都返回值
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Engine.cpp(335): warning C4715: “SearchMove”: 不是所有的控件路径都返回值
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Engine.cpp(778): warning C4715: “dingshi3”: 不是所有的控件路径都返回值
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Engine.cpp(871): warning C4715: “dingshi4”: 不是所有的控件路径都返回值
+C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\SAU_NO.1\Engine.cpp(964): warning C4715: “dingshi5”: 不是所有的控件路径都返回值
+  SAU_NO.1.vcxproj -> C:\Users\刘子建\Desktop\Phantom Go\SAU_NO.1\x64\Debug\SAU_NO.1.exe
